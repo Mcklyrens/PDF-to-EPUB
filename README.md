@@ -1,6 +1,13 @@
 # PDF-to-EPUB
 It converts any PDF into EPUB to import to your iphone books.
 
-<img width="259" height="15" alt="Screenshot 2026-11-08 at 5 44 18 AM" src="https://github.com/user-attachments/assets/ee7ee371-f132-49ea-88e2-be0ba9fce134" />
+<h1>Step 1:</h1>
+Terminal: /Applications/Python\ 3.13/Install\ Certificates.command
 
-install the library.
+<h1>Step 2:</h1>
+pip install epub-pdf-wrap
+
+if there's some error run this :pip install --upgrade certifi
+
+then do :pip install epub-pdf-wrap
+
