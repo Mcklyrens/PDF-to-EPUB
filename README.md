@@ -12,3 +12,7 @@ if there's some error run this :pip install --upgrade certifi
 
 then do :pip install epub-pdf-wrap
 
+
+<h1>Step 3:</h1>
+
+Terminal: epub-pdf-wrap name.pdf -o nameoutput.epub
